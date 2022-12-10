@@ -1,0 +1,7 @@
+.element , input{
+    border: 2px solid blueviolet;
+    margin: 5px;
+    padding: 10px;
+    width: 350px;
+    border-radius: 5px;
+}
